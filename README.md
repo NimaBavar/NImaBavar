@@ -1,16 +1,16 @@
-### Hi there 👋
+- ⁅ 📛 ⁆ Name : Daniel
+- ⁅ 👦 ⁆ Age : 17
+- ⁅ :flag_ir: ⁆ The motherland of : Iran
+- ⁅ 🔺 ⁆ Interested In  : Python , Software engineering , 
 
-<!--
-**KhodeDan/KhodeDan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Greetings,
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My name is Daniel, also known as KhodeDan. I am a motivated 17-year-old individual with a strong passion for software engineering. My ultimate goal is to excel in this field and pursue higher education at esteemed universities abroad, as my home country doesn't provide adequate opportunities for computer science and engineering.
+
+My daily routine revolves around three main activities: coding, eating, and resting. These activities form the core of my focus and determination. I firmly believe in turning my dreams into reality and maintaining unwavering dedication.
+
+Thank you for taking the time to acquaint yourself with my biography. I appreciate your interest.
+
+Best regards,
+Daniel (KhodeDan) 
