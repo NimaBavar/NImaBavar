@@ -10,7 +10,7 @@
 # description :
 
 
-> Greetings,
+> GREETINGS,
 
 > My name is Daniel, also known as KhodeDan. I am a motivated 17-year-old individual with a strong passion for software engineering. My ultimate goal is to excel in this field and pursue  higher education at esteemed universities abroad, as my home country doesn't provide adequate opportunities for computer science and engineering.
 
