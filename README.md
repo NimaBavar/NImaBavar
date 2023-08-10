@@ -18,5 +18,5 @@
 
 > Thank you for taking the time to acquaint yourself with my biography. I appreciate your interest.
 
-> Best regards,
-> Daniel (KhodeDan)
+> BEST REGARDS
+> DANIEL ( KHODEDAN )
