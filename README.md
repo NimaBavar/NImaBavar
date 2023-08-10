@@ -1,7 +1,13 @@
+> Info :
+
 - ⁅ 📛 ⁆ Name : Daniel
 - ⁅ 👦 ⁆ Age : 17
-- ⁅ :flag_ir: ⁆ The motherland of : Iran
-- ⁅ 🔺 ⁆ Interested In  : Python , Software engineering , 
+- ⁅ 🧠 ⁆ The motherland of : Iran
+- ⁅ 👨‍💻 ⁆ Interested In : UI , Game developing
+- ⁅ 🐍 ⁆ Languages : Python ... ( Is legend )
+
+
+> description :
 
 
 Greetings,
