@@ -3,7 +3,7 @@
 - ⁅ 📛 ⁆ Name : Daniel
 - ⁅ 👦 ⁆ Age : 17
 - ⁅ 🧠 ⁆ The motherland of : Iran
-- ⁅ 👨‍💻 ⁆ Interested In : UI , Game developing
+- ⁅ 👨‍💻 ⁆ Interested In : UI , Software engineering , Game engineering
 - ⁅ 🐍 ⁆ Languages : Python ... ( Is legend )
 
 
