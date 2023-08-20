@@ -1,6 +1,6 @@
 # Info :
 
-- ⁅ 📛 ⁆ Name : Daniel
+- ⁅ 📛 ⁆ Name : Nima
 - ⁅ 👦 ⁆ Age : 13
 - ⁅ 🧠 ⁆ The motherland of : Iran
 - ⁅ 👨‍💻 ⁆ Interested In : Software engineering , AI
