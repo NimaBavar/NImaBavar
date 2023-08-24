@@ -1,10 +1,10 @@
 # Info :
 
-- ⁅ 📛 ⁆ Name : Nima
-- ⁅ 👦 ⁆ Age : 13
-- ⁅ 🧠 ⁆ The motherland of : Iran
-- ⁅ 👨‍💻 ⁆ Interested In : Software engineering , AI
-- ⁅ 🐍 ⁆ Languages : Python ( Is legend )
+- ⁅ 📛 ⁆ Name : Nima.
+- ⁅ 👦 ⁆ Age : 13.
+- ⁅ 🧠 ⁆ The motherland of : Iran.
+- ⁅ 👨‍💻 ⁆ Interested In : Software engineering , AI.
+- ⁅ 🐍 ⁆ Languages : Python.
 
 
 # description :
