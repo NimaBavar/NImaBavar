@@ -4,7 +4,9 @@
 - Age : 13.
 - The motherland of : Iran.
 - Interested In : Software engineering , AI.
-- Languages : Python.
+
+# Languages And tools:
+- ![Python](https://github.com/KhodeNima/KhodeNima/blob/Main.Project/Pictures/Python.png)
 
 
 # description :
