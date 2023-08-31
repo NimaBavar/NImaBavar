@@ -6,7 +6,7 @@
 - Interested In : Software engineering , AI.
 
 # Languages And tools:
-- ![Python](https://github.com/KhodeNima/KhodeNima/blob/Main.Project/Pictures/Python.png)
+![Python](https://github.com/KhodeNima/KhodeNima/blob/Main.Project/Pictures/Python.png)
 
 
 # description :
