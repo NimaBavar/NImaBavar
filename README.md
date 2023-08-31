@@ -1,4 +1,4 @@
-# Info :
+# Information :
 
 - Name : Nima.
 - Age : 13.
