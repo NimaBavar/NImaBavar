@@ -6,7 +6,10 @@
 - Interested In : Software engineering , AI.
 
 # Languages And tools:
->  <img src="https://github.com/KhodeNima/KhodeNima/blob/Main.Project/Pictures/Python.png" alt="Python" width="90"/><img src="https://github.com/KhodeNima/KhodeNima/blob/Main.Project/Pictures/Json.png" alt="Json" width="90"/>
+> | Language | Skill |
+> | ------- | ----- |
+> | <img src="https://github.com/KhodeNima/KhodeNima/blob/Main.Project/Pictures/Python.png" alt="Python" width="90"/>| **Basic computing** |
+> | <img src="https://github.com/KhodeNima/KhodeNima/blob/Main.Project/Pictures/Json.png" alt="Json" width="90"/> | **Foundmental** |
 
 
 # description :
