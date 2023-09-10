@@ -1,6 +1,6 @@
 # Skills and condition:
-[![KhodeNima's GitHub stats](https://github-readme-stats.vercel.app/api?username=KhodeNima&show_icons=true&theme=shadow_red&rank_icon=github&hide_border=true&card_width=500x&ring_color=#000000)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KhodeNima&layout=compact&theme=shadow_red&hide_border=true&card_width=500x)](https://github.com/KhodeNima/github-readme-stats)
+[![KhodeNima's GitHub stats](https://github-readme-stats.vercel.app/api?username=KhodeNima&show_icons=true&theme=shadow_red&rank_icon=github&card_width=500x&ring_color=#000000)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KhodeNima&layout=donut&theme=shadow_red&card_width=40x)](https://github.com/KhodeNima/github-readme-stats)
 
 # Currently working on :
 
