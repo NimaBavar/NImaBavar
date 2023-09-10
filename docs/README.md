@@ -1,4 +1,4 @@
-# Information :
+<span style="color:blue">some *blue* text</span>
 
 - Name : Nima.
 - Age : 13.
