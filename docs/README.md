@@ -1,16 +1,10 @@
-# Information
+# Skills and condition:
+[![KhodeNima's GitHub stats](https://github-readme-stats.vercel.app/api?username=KhodeNima&show_icons=true&theme=shadow_red&rank_icon=github&hide_border=true&card_width=500x&ring_color=#000000)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KhodeNima&layout=compact&theme=shadow_red&hide_border=true&card_width=500x)](https://github.com/KhodeNima/github-readme-stats)
 
-- Name : Nima.
-- Age : 13.
-- The motherland of : Iran.
-- Interested In : Software engineering , AI.
+# Currently working on :
 
-# Languages And tools:
-> | Language | Skill |
-> | ------- | ----- |
-> | <img src="https://github.com/KhodeNima/KhodeNima/blob/Main.Project/Pictures/Python.png" alt="Python" width="90"/>| **Basic computing** |
-> | <img src="https://github.com/KhodeNima/KhodeNima/blob/Main.Project/Pictures/Json.png" alt="Json" width="90"/> | **Foundmental** |
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KhodeNima&show_icons=true&theme=shadow_red)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KhodeNima&repo=NyvoHabit&theme=shadow_red)](https://github.com/anuraghazra/github-readme-stats)
 
 # description :
 
