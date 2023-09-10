@@ -10,7 +10,7 @@
 > | ------- | ----- |
 > | <img src="https://github.com/KhodeNima/KhodeNima/blob/Main.Project/Pictures/Python.png" alt="Python" width="90"/>| **Basic computing** |
 > | <img src="https://github.com/KhodeNima/KhodeNima/blob/Main.Project/Pictures/Json.png" alt="Json" width="90"/> | **Foundmental** |
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KhodeNima&show_icons=true&theme=shadow_red)](https://github.com/anuraghazra/github-readme-stats)
 
 # description :
 
