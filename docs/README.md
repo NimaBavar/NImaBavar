@@ -22,6 +22,7 @@
 # ![Static Badge](https://img.shields.io/badge/Description-%238B0000?style=soci&logoColor=country&color=%238B0000)
 
 
+
 **GREETINGS,**
 
 **My name is Nima, also known as KhodeNima. I am a motivated 13-year-old individual with a strong passion for software engineering. My ultimate goal is to excel in this field and pursue  higher education at esteemed universities abroad, as my home country doesn't provide adequate opportunities for computer science and engineering.**
@@ -32,3 +33,5 @@
 
 **BEST REGARDS.
 Nima ( KhodeNima )**
+
+
