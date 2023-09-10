@@ -1,19 +1,21 @@
-# Information :
-
-- Name : Nima.
-- Age : 13.
-- The motherland of : Iran.
-- Interested In : Software engineering , AI.
+# ![Static Badge](https://img.shields.io/badge/Informations-%238B0000?style=soci&logoColor=country&color=%238B0000)
 
 
-# Skills and condition:
+- ![Static Badge](https://img.shields.io/badge/Nima-%238B0000?style=soci&label=Name&color=%238B0000)
+- ![Static Badge](https://img.shields.io/badge/13-%238B0000?style=soci&logoColor=%238B0000&label=Age&color=%238B0000)
+- ![Static Badge](https://img.shields.io/badge/Iran-%238B0000?style=soci&logoColor=country&label=Motherland%20%3A%20&color=%238B0000)
+- ![Static Badge](https://img.shields.io/badge/Software%20engineering-%238B0000?style=soci&logoColor=country&label=Interested%20in%20%3A%20&color=%238B0000)
+
+
+
+# Skills and conditions:
 [![KhodeNima's GitHub stats](https://github-readme-stats.vercel.app/api?username=KhodeNima&show_icons=true&theme=shadow_red&rank_icon=github&card_width=500x&ring_color=#000000)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KhodeNima&layout=compact&theme=shadow_red&card_width=500x)](https://github.com/KhodeNima/github-readme-stats)
 
 # Currently working on :
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KhodeNima&repo=NyvoHabit&theme=shadow_red&card_width=500x)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KhodeNima&repo=NyvoHabit&theme=shadow_red)](https://github.com/anuraghazra/github-readme-stats)
 
 # description :
 
