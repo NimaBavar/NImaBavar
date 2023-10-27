@@ -31,7 +31,7 @@
 
 **Thank you for taking the time to acquaint yourself with my biography. I appreciate your interest.**
 
-**BEST REGARDS.
-Nima ( KhodeNima ).**
+**BEST REGARDS
+Nima ( KhodeNima )**
 
 
