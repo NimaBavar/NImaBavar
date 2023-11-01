@@ -23,7 +23,8 @@
 
 
 
+
 *Dear Sir/Madam,*
 
-*Greetings to you, my name is Nima (also known as KhodeNima) and I am a determined 13-year-old individual with a strong passion for software engineering and cybersecurity. I aim to pursue higher education at respected universities abroad, as my native nation lacks adequate resources concerning these professions. I devote my days to coding, eating, and resting. I believe in transforming my ambitions into actuality, while maintaining steadfast dedication. Thank you for taking the time to become acquainted with my biography, it is greatly appreciated.*
+*It is my pleasure to introduce myself as Nima. I am also known as KhodeNima, and I am a determined young individual of thirteen years old with a strong passion for software engineering and cybersecurity. I plan to pursue higher education at respected universities abroad. While my native country does not have adequate resources for these professions, I aim to transform my ambitions into actuality with steadfast dedication. Thank you for your attention to my background, it is greatly appreciated.*
 
