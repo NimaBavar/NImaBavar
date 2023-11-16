@@ -13,7 +13,13 @@
 # ![Static Badge](https://img.shields.io/badge/Skills_and_competencies-%238B0000?style=soci&logoColor=country&color=%238B0000)
 [![KhodeNima's GitHub stats](https://github-readme-stats.vercel.app/api?username=KhodeNima&show_icons=true&theme=shadow_red&rank_icon=github&card_width=500x&ring_color=#000000)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KhodeNima&layout=compact&theme=shadow_red&card_width=500x)](https://github.com/KhodeNima/github-readme-stats)
+<p align="center">
+    <img src="https://github.com/KhodeNima/KhodeNima/blob/Main.Project/pictures/python.png" alt="python" width="50" />
+    <img src="https://github.com/KhodeNima/KhodeNima/blob/Main.Project/pictures/bash.png" alt="bash" width="160" />
+    <img src="https://github.com/KhodeNima/KhodeNima/blob/Main.Project/pictures/json.png" alt="json" width="50" />
+</p>
+
+
 
 # ![Static Badge](https://img.shields.io/badge/Currently_working_on-%238B0000?style=soci&logoColor=country&color=%238B0000)
 
