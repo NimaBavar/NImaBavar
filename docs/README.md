@@ -12,16 +12,15 @@
 
 # ![Static Badge](https://img.shields.io/badge/Skills_and_competencies-%238B0000?style=soci&logoColor=country&color=%238B0000)
 
-<pre>
 
-    <p align="center">
-    <img src="https://github.com/KhodeNima/KhodeNima/blob/Main.Project/pictures/python.png" alt="python" width="50" />
+
+<p align="center">
+    <img src="https://github.com/KhodeNima/KhodeNima/blob/Main.Project/pictures/python.png" alt="python" width="100" />
+    <img src="https://github.com/KhodeNima/KhodeNima/blob/Main.Project/pictures/json.png" alt="json" width="100" />
     <img src="https://github.com/KhodeNima/KhodeNima/blob/Main.Project/pictures/kali.png" alt="kali" width="100" />
-    <img src="https://github.com/KhodeNima/KhodeNima/blob/Main.Project/pictures/bash.png" alt="bash" width="100" />
-    <img src="https://github.com/KhodeNima/KhodeNima/blob/Main.Project/pictures/json.png" alt="json" width="50" />
-</p>
+    <img src="https://github.com/KhodeNima/KhodeNima/blob/Main.Project/pictures/bash.png" alt="bash" width="140" />
 
-    
+
 </pre>
 
 
