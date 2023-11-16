@@ -17,7 +17,7 @@
 
 # ![Static Badge](https://img.shields.io/badge/Currently_working_on-%238B0000?style=soci&logoColor=country&color=%238B0000)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KhodeNima&repo=NyvoHabit&theme=shadow_red)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KhodeNima&repo=NyvoAI&theme=shadow_red)](https://github.com/anuraghazra/github-readme-stats)
 
 # ![Static Badge](https://img.shields.io/badge/Description-%238B0000?style=soci&logoColor=country&color=%238B0000)
 
