@@ -17,6 +17,7 @@
 <p align="center">
     <img src="https://github.com/KhodeNima/KhodeNima/blob/Main.Project/pictures/python.png" alt="python" width="100" />
     <img src="https://github.com/KhodeNima/KhodeNima/blob/Main.Project/pictures/json.png" alt="json" width="100" />
+    <img src="https://github.com/KhodeNima/KhodeNima/blob/Main.Project/pictures/bash.png" alt="bash" width="150" />
 
 </p>
 
