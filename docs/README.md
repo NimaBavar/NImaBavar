@@ -16,6 +16,7 @@
 
 <p align="center">
     <img src="https://github.com/KhodeNima/KhodeNima/blob/Main.Project/pictures/python.png" alt="python" width="100" />
+    <br>
     <img src="https://github.com/KhodeNima/KhodeNima/blob/Main.Project/pictures/json.png" alt="json" width="100" />
     <img src="https://github.com/KhodeNima/KhodeNima/blob/Main.Project/pictures/bash.png" alt="bash" width="150" />
 
@@ -29,7 +30,7 @@
 
 
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KhodeNima&repo=NyvoAI&theme=shadow_red)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KhodeNima&repo=NyvoHabit&theme=shadow_red)
     
 
 
