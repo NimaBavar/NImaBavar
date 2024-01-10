@@ -30,7 +30,7 @@
 
 
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KhodeNima&repo=NyvoHabit&theme=shadow_red)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KhodeNima&repo=NyvoNetHunter&theme=shadow_red)
     
 
 
