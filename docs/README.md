@@ -17,7 +17,8 @@
 <p align="center">
     <img src="https://github.com/KhodeNima/KhodeNima/blob/Main.Project/pictures/python.png" alt="python" width="100" />
     <img src="https://github.com/KhodeNima/KhodeNima/blob/Main.Project/pictures/json.png" alt="json" width="100" />
-    <img src="https://github.com/KhodeNima/KhodeNima/blob/Main.Project/pictures/git.png" alt="git" width="100" />
+    <br>
+    <img src="https://github.com/KhodeNima/KhodeNima/blob/Main.Project/pictures/git.png" alt="git" width="150" />
 
 </p>
 
