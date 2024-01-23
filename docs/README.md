@@ -26,7 +26,7 @@
 </pre>
 
 
-# ![Static Badge](https://img.shields.io/badge/Currently_working_on-%238B0000?style=soci&logoColor=country&color=%238B0000)
+# ![Static Badge](https://img.shields.io/badge/Currently_working_on:-%238B0000?style=soci&logoColor=country&color=%238B0000)
 
 
 
