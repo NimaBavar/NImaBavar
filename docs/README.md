@@ -41,8 +41,5 @@
 It is my pleasure to introduce myself as Nima. My nickname is KhodeNima. I am a determined young individual of fourteen years old with a strong passion for software engineering and cybersecurity. I plan to pursue higher education at respected universities abroad, as my native country does not provide the necessary resources for the corresponding professions; I aim to realize my ambitions through steadfast dedication and determination; Thank you for your attention to my background. It is highly appreciated.**
 
 
-# ![Static Badge](https://img.shields.io/badge/Note-%238B0000?style=soci&logoColor=country&color=%238B0000)
-
-
 > [!NOTE]
 > This account is a replacement for the [**Older KhodeNima account**](https://github.com/KhodeNima).
