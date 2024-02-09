@@ -45,4 +45,4 @@ It is my pleasure to introduce myself as Nima. My nickname is KhodeNima. I am a 
 
 
 > [!NOTE]
-> This account is a replacement for the [**Older KhodeNima account**](https://github.com/KhodeNima).
+> This account is a contiunous fork of the [**Older KhodeNima account**](https://github.com/KhodeNima).
