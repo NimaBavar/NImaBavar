@@ -45,7 +45,7 @@ commenced to manifest themselves while I was younger.**
 <details>
 
 
-  <summary>Autobiography</summary>
+  <summary>$${\color{red}Autobiography}$$</summary>
   <br>
 
 
