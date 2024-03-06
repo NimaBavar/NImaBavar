@@ -42,6 +42,9 @@ It is my pleasure to introduce myself as Nima, My nickname is KhodeNima, I am a 
 It is my pleasure to introduce myself as Nima, My nickname is KhodeNima, I am a determined young individual of fourteen years old with a strong passion for cybersecurity; I plan to pursue higher education in the universities abroad, in order to serve my homeland the best way possible. I aim to realize my ambitions through steadfast dedication and determination, ambitions which
 commenced to manifest themselves since I was younger.**
 
+**In the bygone times, I have had hight subsequent passion when it came to computers, especially in the case of
+delegating huge chunks of the time researching the web, despite the fact that utilizing the World Wide Web network without the 
+proper knowledge causes outstanding harms.**
 
 
 <br>
