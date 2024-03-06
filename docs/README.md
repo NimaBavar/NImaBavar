@@ -67,7 +67,8 @@ my periodic attachment and joy in working with Text User Interface ( TUI ) is th
 **school, where I steadily attempt to join and triumpth manifold competitions, especially in the branches of English speaking,** 
 **Computer engineering and religion, which are entierly mentioned in the following list:**
 **The mentioned factors caused me to develop prominent skills which I still employ today as an enthusiastic who is
-demanding to cause intensive touch in the Cybersecurity industry.**
+demanding to cause intensive touch in the industry.**
+
 
 
 <br>
