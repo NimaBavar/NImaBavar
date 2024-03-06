@@ -76,6 +76,10 @@ my periodic attachment and joy in working with Text User Interface ( TUI ) is th
 demanding to cause intensive touch in the industry.**
 
 
+**Regardless of all the enjoyable work, I do rejoice my spare time studying politics and taking Kickboxing sparring sessions,
+a career which I pursue due to its valuable mind preparation.**
+
+
 **Thank you for investing your valuable time reading my biography, it is highly appreciated.**
 
 <br>
