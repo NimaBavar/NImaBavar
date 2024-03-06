@@ -41,15 +41,16 @@
 It is my pleasure to introduce myself as Nima, My nickname is KhodeNima, I am a determined young individual of fourteen years old with a strong passion for cybersecurity; I plan to pursue higher education in the universities abroad, in order to serve my homeland the best way possible. I aim to realize my ambitions through steadfast dedication and determination, ambitions which
 commenced to manifest themselves while I was younger.**
 
+
 **In the bygone times, I have had hight subsequent passion when it came to computers, especially in the case of
 delegating intensive chunks of the time researching the World Wide Web, which clutched multifarious impacts in my path of
 self-learning English.**
 
+
 **The alloy of computer engineering passion and research, was followed by interest in soft skills over my following
-years of education, which anointed me to enjoy giving speeches and discovering methodologies in order to enhance existing fellowships.**
 years of education, which anointed me to enjoy giving speeches and discovering novel methodologies in order to enhance existing fellowships.**
 **Despite the fact that I frankly find developing interactions an effortless process, in the absence of knowledgeable associates,
-I prefer to do many tasks separately.**
+I prefer to do many tasks separately, especially the ones which I enjoy the most, including Version Control Ma
 
 **In the field of academics, I would prefer to consider classical education a secondary element to self-learning, a manner which
 I actively support, albeit, I am honored to be of the students of the Iran NODET ( National Organization for Development of Exceptional Talents )
