@@ -46,6 +46,7 @@ delegating intensive chunks of the time researching the World Wide Web, which cl
 self-learning English.**
 
 **The alloy of computer engineering passion and research, was followed by interest in soft skills in my following
+**The alloy of computer engineering passion and research, was followed by interest in soft skills over my following
 years of education, which anointed me to enjoy giving speeches and discovering methodologies in order to enhance existing fellowships.**
 
 **The mentioned factors caused me to develop prominent skills which I still employ today as an enthusiastic who is
