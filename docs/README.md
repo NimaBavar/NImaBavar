@@ -42,12 +42,11 @@ It is my pleasure to introduce myself as Nima, My nickname is KhodeNima, I am a 
 commenced to manifest themselves since I was younger.**
 
 **In the bygone times, I have had hight subsequent passion when it came to computers, especially in the case of
-delegating huge chunks of the time researching the web, despite the fact that utilizing the World Wide Web network without the 
-proper knowledge causes outstanding harms.**
+delegating intensive chunks of the time researching the World Wide Web, which clutched multifarious impacts in my path of
+self-learning English.**
 
 **The alloy of computer engineering passion and research, was followed by interest in soft skills in my following
 years of education, which anointed me to enjoy giving speeches and discovering methodologies in order to enhance existing fellowships.**
-
 
 **The mentioned factors caused me to develop prominent skills which I still employ today as an enthusiastic who is
 demanding to cause intensive touch in the industry.**
