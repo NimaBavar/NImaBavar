@@ -48,6 +48,8 @@ self-learning English.**
 **The alloy of computer engineering passion and research, was followed by interest in soft skills in my following
 **The alloy of computer engineering passion and research, was followed by interest in soft skills over my following
 years of education, which anointed me to enjoy giving speeches and discovering methodologies in order to enhance existing fellowships.**
+**Despite the fact that I frankly find developing interactions an effortless process, in the absence of knowledgeable associates,
+I prefer to do many tasks separately.**
 
 **The mentioned factors caused me to develop prominent skills which I still employ today as an enthusiastic who is
 demanding to cause intensive touch in the industry.**
