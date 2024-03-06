@@ -39,6 +39,9 @@
 
 **Dear sir/madam
 It is my pleasure to introduce myself as Nima, My nickname is KhodeNima, I am a determined young individual of fourteen years old with a strong passion for cybersecurity; I plan to pursue higher education in the universities abroad, in order to serve my homeland the best way possible. I aim to realize my ambitions through steadfast dedication and determination; Thank you for your attention to my background; It is highly appreciated.**
+It is my pleasure to introduce myself as Nima, My nickname is KhodeNima, I am a determined young individual of fourteen years old with a strong passion for cybersecurity; I plan to pursue higher education in the universities abroad, in order to serve my homeland the best way possible. I aim to realize my ambitions through steadfast dedication and determination, ambitions which
+commenced to manifest themselves since I was younger.**
+
 
 
 <br>
