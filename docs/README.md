@@ -45,7 +45,7 @@ commenced to manifest themselves since I was younger.**
 delegating huge chunks of the time researching the web, despite the fact that utilizing the World Wide Web network without the 
 proper knowledge causes outstanding harms.**
 
-**The alloy of computer engineering passion and research, was followed by interests in soft skills in my following
+**The alloy of computer engineering passion and research, was followed by interest in soft skills in my following
 years of education, which anointed me to enjoy giving speeches and discovering methodologies in order to enhance existing fellowships.**
 
 
