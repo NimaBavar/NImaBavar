@@ -60,7 +60,7 @@ Computer engineering and religion, which are entierly mentioned in the following
 - Danaii-Tavanaii book reading competition -> | City zone: Rank 1 | Province zone: Rank 2.
 - Religious speech and debate competition ->  | City zone: Rank 1 | Province zone: In progress...
 **The mentioned factors caused me to develop prominent skills which I still employ today as an enthusiastic who is
-demanding to cause intensive touch in the industry.**
+demanding to cause intensive touch in the Cybersecurity industry.**
 
 
 <br>
