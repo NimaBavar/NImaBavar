@@ -45,7 +45,6 @@ commenced to manifest themselves since I was younger.**
 delegating intensive chunks of the time researching the World Wide Web, which clutched multifarious impacts in my path of
 self-learning English.**
 
-**The alloy of computer engineering passion and research, was followed by interest in soft skills in my following
 **The alloy of computer engineering passion and research, was followed by interest in soft skills over my following
 years of education, which anointed me to enjoy giving speeches and discovering methodologies in order to enhance existing fellowships.**
 **Despite the fact that I frankly find developing interactions an effortless process, in the absence of knowledgeable associates,
