@@ -60,6 +60,12 @@ project documentations.**
 in order to cite a slight segmentation, I can relate to producing charming Graphical User Interfaces ( GUI ), 
 Graphics editing ( pictures, videos ) and data management through microsoft softwares, with the indication that
 my periodic attachment and joy in working with Text User Interface ( TUI ) is the cause of my hassle with Graphics.**
+
+
+**In the field of academics, I would prefer to consider classical education a secondary element to self-learning, a manner which**
+**I actively support; Albeit, I am honored to be of the students of the Iran NODET ( National Organization for Development of Exceptional Talents )***
+**school, where I steadily attempt to join and triumpth manifold competitions, especially in the branches of English speaking,** 
+**Computer engineering and religion, which are entierly mentioned in the following list:**
 **The mentioned factors caused me to develop prominent skills which I still employ today as an enthusiastic who is
 demanding to cause intensive touch in the Cybersecurity industry.**
 
