@@ -76,6 +76,7 @@ my periodic attachment and joy in working with Text User Interface ( TUI ) is th
 demanding to cause intensive touch in the industry.**
 
 
+**Thank you for investing your valuable time reading my biography, it is highly appreciated.**
 
 <br>
 
