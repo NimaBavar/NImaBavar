@@ -50,9 +50,7 @@ self-learning English.**
 **The alloy of computer engineering passion and research, was followed by interest in soft skills over my following
 years of education, which anointed me to enjoy giving speeches and discovering novel methodologies in order to enhance existing fellowships.**
 **Despite the fact that I frankly find developing interactions an effortless process, in the absence of knowledgeable associates,
-I prefer to do many tasks separately, especially the ones which I enjoy the most, including Version Control Ma
-
-nagement jobs and writing basic 
+I prefer to do many tasks separately, especially the ones which I enjoy the most, including Version Control Management jobs and writing basic 
 project documentations.**
 
 
