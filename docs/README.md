@@ -54,6 +54,12 @@ I prefer to do many tasks separately, especially the ones which I enjoy the most
 
 nagement jobs and writing basic 
 project documentations.**
+
+
+**Unfortunately, there are numerous significant operations which I dislike in which I prefer mentorship and cooperation,
+in order to cite a slight segmentation, I can relate to producing charming Graphical User Interfaces ( GUI ), 
+Graphics editing ( pictures, videos ) and data management through microsoft softwares, with the indication that
+my periodic attachment and joy in working with Text User Interface ( TUI ) is the cause of my hassle with Graphics.**
 **The mentioned factors caused me to develop prominent skills which I still employ today as an enthusiastic who is
 demanding to cause intensive touch in the Cybersecurity industry.**
 
