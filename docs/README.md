@@ -66,6 +66,12 @@ my periodic attachment and joy in working with Text User Interface ( TUI ) is th
 **I actively support; Albeit, I am honored to be of the students of the Iran NODET ( National Organization for Development of Exceptional Talents )***
 **school, where I steadily attempt to join and triumpth manifold competitions, especially in the branches of English speaking,** 
 **Computer engineering and religion, which are entierly mentioned in the following list:**
+- ***Khawrizmi software engineering competition*** -> | In progress...
+- ***Omid-e-Farda game development competitin*** -> | **City zone: Rank 1** | **Province zone: Rank 2**.
+- ***Danaii-Tavanaii book reading competition*** -> | **City zone: Rank 1** | **Province zone: Rank 2**.
+- ***Religious speech and debate competition*** ->  | **City zone: Rank 1** | Province zone: In progress...
+
+
 **The mentioned factors caused me to develop prominent skills which I still employ today as an enthusiastic who is
 demanding to cause intensive touch in the industry.**
 
