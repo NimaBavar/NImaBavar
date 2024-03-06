@@ -38,7 +38,6 @@
 
 
 **Dear sir/madam
-It is my pleasure to introduce myself as Nima, My nickname is KhodeNima, I am a determined young individual of fourteen years old with a strong passion for cybersecurity; I plan to pursue higher education in the universities abroad, in order to serve my homeland the best way possible. I aim to realize my ambitions through steadfast dedication and determination; Thank you for your attention to my background; It is highly appreciated.**
 It is my pleasure to introduce myself as Nima, My nickname is KhodeNima, I am a determined young individual of fourteen years old with a strong passion for cybersecurity; I plan to pursue higher education in the universities abroad, in order to serve my homeland the best way possible. I aim to realize my ambitions through steadfast dedication and determination, ambitions which
 commenced to manifest themselves since I was younger.**
 
@@ -48,6 +47,11 @@ proper knowledge causes outstanding harms.**
 
 **The alloy of computer engineering passion and research, was followed by interests in soft skills in my following
 years of education, which anointed me to enjoy giving speeches and discovering methodologies in order to enhance existing fellowships.**
+
+
+**The mentioned factors caused me to develop prominent skills which I still employ today as an enthusiastic who is
+demanding to cause intensive touch in the industry.**
+
 
 <br>
 
