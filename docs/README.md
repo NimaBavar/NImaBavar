@@ -51,6 +51,10 @@ years of education, which anointed me to enjoy giving speeches and discovering n
 **Despite the fact that I frankly find developing interactions an effortless process, in the absence of knowledgeable associates,
 I prefer to do many tasks separately.**
 
+**In the field of academics, I would prefer to consider classical education a secondary element to self-learning, a manner which
+I actively support, albeit, I am honored to be of the students of the Iran NODET ( National Organization for Development of Exceptional Talents )
+school, where I steadily attempt to join and triumpth manifold competitions, especially in the branches of English speaking, 
+Computer engineering and religion, which are entierly mentioned in the following list:**
 **The mentioned factors caused me to develop prominent skills which I still employ today as an enthusiastic who is
 demanding to cause intensive touch in the industry.**
 
