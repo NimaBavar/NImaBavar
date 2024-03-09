@@ -42,6 +42,13 @@ It is my pleasure to introduce myself as Nima, My nickname is KhodeNima, I am a 
 commenced to manifest themselves while I was younger.**
 
 
+<details>
+
+
+  <summary>$${\color{red}Autobiography}$$</summary>
+  <br>
+
+
 **In the bygone times, I have had hight subsequent passion when it came to computers, especially in the case of
 delegating intensive chunks of the time researching the World Wide Web, which clutched multifarious impacts in my path of
 self-learning English.**
@@ -82,6 +89,8 @@ a career which I pursue due to its invaluable mind preparation.**
 
 **Thank you for investing your valuable time reading my biography, it is highly appreciated.**
 
+
+</details>
 <br>
 
 
